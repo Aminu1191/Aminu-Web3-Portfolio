@@ -14,7 +14,7 @@ I'm a Web3 Technical Writer focused on educating new users about decentralized f
 
 | Title | Format | Link |
 |-------|--------|------|
-| What is DeFi? | Article | [Read on Mirror](https://mirror.xyz/your-link) |
+| What is DeFi? | Article | [Read on Mirror](https://medium.com/@aminusirajo63/from-wallet-to-wealth-understanding-defi-for-new-users-3da17459cfe6) |
 | What are DAOs? | Medium | [Read on Medium](https://medium.com/@aminusirajo63/what-are-daos-written-by-aminu-sirajo-date-august-2025-69f1452db927) |
 | Yield Farming Explained | Twitter Thread | [View Thread](https://twitter.com/@Alameenjr18) |
 
